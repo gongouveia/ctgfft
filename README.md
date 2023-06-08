@@ -1,5 +1,5 @@
 # ctgfft
-fichiero implementaveis
+fichiero implementavel
 
 
  O codigo em python é um jupyter notebook, pode se escolher o numero de linhas e colunas da matriz (neste momento esta com 3*3)  e quando se corre o jupyter todo cria um novo ficheiro txt (factors.txt).
